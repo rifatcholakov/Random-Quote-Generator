@@ -2,9 +2,9 @@
 App that displays random famous quotes.
 
 # Fetures
-Random quote on click.
-Auto-refresh the quote every 30sec.
-Random background color.
+* Random quote on click.
+* Auto-refresh the quote every 30sec.
+* Random background color.
 
 # Demo
 https://rifatcholakov.github.io/Random-Quote-Generator/
