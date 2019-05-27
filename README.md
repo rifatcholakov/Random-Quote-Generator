@@ -6,7 +6,7 @@ App that displays random famous quotes.
 * Auto-refresh the quote every 30sec.
 * Random background color.
 
-# Demo
+# Preview
 https://rifatcholakov.github.io/Random-Quote-Generator/
 
 # License
